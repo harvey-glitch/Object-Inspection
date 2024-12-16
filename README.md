@@ -15,4 +15,9 @@ This Unity project features an **Object Inspection** system that allows players 
    - Attach the `ObjectInspection` script to the **Main Camera**.
    - Set the layer of the objects you want to inspect to **"Interactable"**.
 
-Feel free to customize and expand this project to suit your needs. Happy developing!
+## Credits
+Developed by: [Antazo Harvey]
+
+---
+
+Feel free to modify and expand this template to suit your needs. Happy game development!
